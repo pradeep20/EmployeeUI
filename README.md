@@ -1,6 +1,6 @@
-# 💼 Employee Management System (CRUD App)
+# 💼 Employee Management System
+A complete, modern Employee CRUD (Create, Read, Update, Delete) Application built with React. This system is designed to streamline workforce data administration with an intuitive, efficient, and responsive user experience.
 
-A complete, production-ready **Employee CRUD (Create, Read, Update, Delete) Application** designed to streamline workforce data administration.
 
 ## 🚀 Features
 
